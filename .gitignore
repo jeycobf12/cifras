@@ -1,18 +1,14 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+#include <iostream>
+using namspace std;
 
-# Other files and folders
-.settings/
-
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
-
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+int main () {
+    int n, x ¡ 0;
+    count <<¨numero --> ¨;
+    cin>>n;
+    while(n > 0){
+    n = n/ 10;
+    x++;
+    }
+    count>>¨El numero tiene <<x<<¨ cifras¨<< endl;
+    return 0;
+}
